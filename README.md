@@ -2,7 +2,7 @@
 A script that parses out PDF files containing detainer warrant data. 
 
 
-![detainer warrants](https://github.com/ThomasPepperz/Detainer-Warrant-PDF-Parserblob/main/images/ex1.png)
+![detainer warrants](https://github.com/ThomasPepperz/Detainer-Warrant-PDF-Parser/blob/main/images/ex1.png?raw=true)
 
 #
 
